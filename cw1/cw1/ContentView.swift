@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         ZStack{
            // Color(hue: 0.535, saturation: 0.236, brightness: 0.884)
-            Color.teal.opacity(0.3)
+            Color.teal.opacity(0.35)
           .ignoresSafeArea()
             VStack{
                 Text("Hello name is Leena")
